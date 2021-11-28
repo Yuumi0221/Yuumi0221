@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+- 📕 I’m currently studying computer science.
+- 📫 You can reach me at yuumi0221@outlook.com
+
+
 📊This Week I Spent My Time On:
 <!--START_SECTION:waka-->
-```text
-C      7 mins          █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
 
 <!--
