@@ -8,12 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Stylus       1 hr 57 mins    ███████████████████▓░░░░░   78.93 %
-YAML         26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
-HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
