@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-CSS        5 mins          █████████████████████████   99.82 %
-Solidity   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Solidity   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
