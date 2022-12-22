@@ -8,12 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++          9 mins          ███████████████▓░░░░░░░░░   62.06 %
-CSS          3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.45 %
-Python       2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Solidity     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
