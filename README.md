@@ -8,7 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   11 mins         ███████▒░░░░░░░░░░░░░░░░░   28.91 %
+Pug          10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+Stylus       7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Markdown     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+YAML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->
