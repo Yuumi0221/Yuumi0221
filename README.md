@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Git        3 mins          ████████████████████████▒   96.73 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
