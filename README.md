@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash           3 hrs 13 mins   █████████████████████░░░░   84.62 %
-ActionScript   30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-Brainfuck      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-GDScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
