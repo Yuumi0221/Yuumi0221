@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 mins          ██████████████████▒░░░░░░   73.58 %
-YAML         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-HTML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
