@@ -8,7 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++        1 hr 8 mins     ████████████████████████░   96.37 %
+Makefile   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
