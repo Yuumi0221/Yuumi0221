@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++           10 mins         ████████████▒░░░░░░░░░░░░   49.62 %
-Objective-C   6 mins          ████████▒░░░░░░░░░░░░░░░░   33.64 %
-C             3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
-XML           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
