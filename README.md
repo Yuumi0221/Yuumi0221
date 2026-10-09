@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       28 mins               ████████░░░░░░░░░░░░░░░░░   31.94 %
+PowerShell   23 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
+JavaScript   17 mins               █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+Markdown     13 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+CSS          6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 ```
 
 <!--END_SECTION:waka-->
